@@ -1,0 +1,37 @@
+[
+    {
+        "Maths": "76.0",
+        "Chemistry": "55.0",
+        "Admission No.": "1004.0",
+        "Physics": "45.0",
+        "Name": "Jobin"
+    },
+    {
+        "Maths": "65.0",
+        "Chemistry": "51.0",
+        "Admission No.": "1005.0",
+        "Physics": "46.0",
+        "Name": "Arnab"
+    },
+    {
+        "Maths": "73.0",
+        "Chemistry": "61.0",
+        "Admission No.": "1006.0",
+        "Physics": "68.0",
+        "Name": "Sijo"
+    },
+    {
+        "Maths": "77.0",
+        "Chemistry": "54.0",
+        "Admission No.": "1007.0",
+        "Physics": "62.0",
+        "Name": "Kyle"
+    },
+    {
+        "Maths": "60.0",
+        "Chemistry": "69.0",
+        "Admission No.": "1008.0",
+        "Physics": "72.0",
+        "Name": "Kyle"
+    }
+]
